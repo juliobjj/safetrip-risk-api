@@ -36,6 +36,14 @@ safetrip/
 └── safetrip-risk-api/
 ```
 
+```text
+mkdir safetrip
+cd safetrip
+
+git clone https://github.com/juliobjj/safetrip-api.git
+git clone https://github.com/juliobjj/safetrip-risk-api.git
+```
+
 ## Instalação e execução local
 
 Na raiz deste projeto:
